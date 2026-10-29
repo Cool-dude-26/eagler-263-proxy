@@ -1,0 +1,5 @@
+[main]
+DISPLAY_NAME = "Eagler Proxy"
+MAIN = "index.js"
+MEMORY = 256
+VERSION = "recommended"
