@@ -1,0 +1,11 @@
+{
+  "name": "Eagler Proxy",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Eaglercraft Proxy",
+      "onAutoForward": "openBrowser",
+      "visibility": "public"
+    }
+  }
+}
